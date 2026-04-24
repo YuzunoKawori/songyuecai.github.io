@@ -17,27 +17,27 @@ Hi, I’m **Songyue Cai** (蔡松岳). I am currently a second-year M.S. student
 
 \* indicates equal contribution, † indicates the corresponding author.
 
-- **MCD-CLIP: Multi-view Chest Disease Diagnosis with Disentangled CLIP.**  
+- MCD-CLIP: Multi-view Chest Disease Diagnosis with Disentangled CLIP.  
   **IJCAI 2025**. [Paper](https://www.ijcai.org/proceedings/2025/0079.pdf) [Code](https://github.com/YuzunoKawori/MCD-CLIP)  
   **Songyue Cai**, Yujie Mo, Liang Peng, Yucheng Xie, Tao Tong, Xiaofeng Zhu
 
-- **Background Prompt for Few-Shot Out-of-Distribution Detection.**  
+- Background Prompt for Few-Shot Out-of-Distribution Detection. 
   **arXiv**. [Paper](https://arxiv.org/pdf/2509.21055) [Code](https://github.com/YuzunoKawori/Mambo)  
   **Songyue Cai**, Yujie Mo, Liang Peng, Ping Hu, Xiaoshuang Shi, Xiaofeng Zhu
 
-- **MMGPL: Multimodal Medical Data Analysis with Graph Prompt Learning.**  
+- MMGPL: Multimodal Medical Data Analysis with Graph Prompt Learning.
   **MIA 2024**. [Paper](https://arxiv.org/pdf/2312.14574)  
   Liang Peng, **Songyue Cai**, Zongqian Wu, Huifang Shang, Xiaofeng Zhu, Xiaoxiao Li
 
-- **Seeking Proxy Point via Stable Feature Space for Noisy Correspondence Learning.**  
+- Seeking Proxy Point via Stable Feature Space for Noisy Correspondence Learning. 
   **IJCAI 2025**. [Paper](https://www.ijcai.org/proceedings/2025/0231.pdf)  
   Yucheng Xie, **Songyue Cai**, Tao Tong, Ping Hu, Xiaofeng Zhu
 
-- **Enhancing Few-Shot Out-of-Distribution Detection via the Refinement of Foreground and Background.**  
+- Enhancing Few-Shot Out-of-Distribution Detection via the Refinement of Foreground and Background. 
   **arXiv**. [Paper](https://arxiv.org/pdf/2601.15065)  
   Tianyu Li, **Songyue Cai**, Zongqian Wu, Ping Hu, Xiaofeng Zhu
 
-- **Meta Label Correction with Generalization Regularizer.**  
+- Meta Label Correction with Generalization Regularizer.
   **IJCAI 2025**. [Paper](https://www.ijcai.org/proceedings/2025/0698.pdf)  
   Tao Tong, Yujie Mo, Yuchen Xie, **Songyue Cai**, Xiaoshuang Shi, Xiaofeng Zhu
 
